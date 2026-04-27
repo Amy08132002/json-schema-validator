@@ -1,0 +1,54 @@
+{
+  "company": "TechCorp",
+  "founded": "2015",
+  "active": true,
+  "headquarters": null,
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": 30,
+      "role": "Engineer",
+      "salary": 95000,
+      "skills": ["Python", "Java", "SQL"]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "age": "twenty-eight",
+      "role": "Designer",
+      "salary": 82000,
+      "skills": ["Figma", "CSS"]
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "role": "Manager",
+      "salary": 105000,
+      "skills": []
+    },
+    {
+      "id": "four",
+      "name": "Diana Prince",
+      "age": 35,
+      "role": "Engineer",
+      "salary": 98000,
+      "skills": ["Go", "Rust", 42]
+    },
+    {
+      "id": 5,
+      "name": "Eve Wilson",
+      "age": 27,
+      "role": "Analyst",
+      "salary": null,
+      "skills": ["Excel", "Tableau"],
+      "notes": "New hire"
+    }
+  ],
+  "departments": [
+    "Engineering",
+    "Design",
+    42,
+    "Analytics"
+  ]
+}
